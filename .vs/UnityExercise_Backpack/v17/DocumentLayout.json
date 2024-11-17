@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\ui\\shop\\shopcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\shop\\shopcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_backpack\\assets\\scripts\\data\\shop\\shopcellinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\shop\\shopcellinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_backpack\\assets\\scripts\\manager\\game\\bagmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\game\\bagmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\data\\player\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\player\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\manager\\game\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\game\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\ui\\bag\\itemcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\bag\\itemcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\ui\\role\\rolepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\role\\rolepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\ui\\bag\\bagpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\bag\\bagpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_backpack\\assets\\framework\\projectbase\\pool\\poolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\framework\\projectbase\\pool\\poolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\manager\\game\\tipmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\game\\tipmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\ui\\shop\\shoptippanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\shop\\shoptippanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_backpack\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\ui\\main\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\main\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\resources\\json\\iteminfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\json\\iteminfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\assets\\scripts\\data\\bag\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF56006E-2DD1-4E4A-D29A-80B714E2567F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\bag\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BagMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Manager\\Game\\BagMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Game\\BagMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Manager\\Game\\BagMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Game\\BagMgr.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAUwHAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:37:46.536Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCell.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Bag\\ItemCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Bag\\ItemCell.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Bag\\ItemCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Bag\\ItemCell.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:59:45.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolePanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Role\\RolePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Role\\RolePanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Role\\RolePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Role\\RolePanel.cs",
+              "ViewState": "AQIAAAsAAABAMzMzM7MowB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:29:52.24Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopCellInfo.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Data\\Shop\\ShopCellInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Shop\\ShopCellInfo.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Data\\Shop\\ShopCellInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\Shop\\ShopCellInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:33:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PoolMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\FrameWork\\ProjectBase\\Pool\\PoolMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\FrameWork\\ProjectBase\\Pool\\PoolMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\FrameWork\\ProjectBase\\Pool\\PoolMgr.cs",
+              "RelativeToolTip": "Assets\\FrameWork\\ProjectBase\\Pool\\PoolMgr.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T03:13:01.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:52:45.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Data\\Bag\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Bag\\Item.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Data\\Bag\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\Bag\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:34:00.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemInfo.txt",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Resources\\Json\\ItemInfo.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Json\\ItemInfo.txt",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Resources\\Json\\ItemInfo.txt",
+              "RelativeToolTip": "Assets\\Resources\\Json\\ItemInfo.txt",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvzQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-07T08:32:36.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Manager\\Game\\TipMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Game\\TipMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Manager\\Game\\TipMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Game\\TipMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:58:40.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopTipPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Shop\\ShopTipPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Shop\\ShopTipPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Shop\\ShopTipPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Shop\\ShopTipPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:54:36.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Main\\MainPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Main\\MainPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Main\\MainPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Main\\MainPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:33:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameDataMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Manager\\Game\\GameDataMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Game\\GameDataMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Manager\\Game\\GameDataMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Game\\GameDataMgr.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvz0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:01:49.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BagPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Bag\\BagPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Bag\\BagPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Bag\\BagPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Bag\\BagPanel.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAvwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:51:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Data\\Player\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Player\\PlayerInfo.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\Data\\Player\\PlayerInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\Player\\PlayerInfo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBgAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:48:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopCell.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Shop\\ShopCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Shop\\ShopCell.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Backpack\\Assets\\Scripts\\UI\\Shop\\ShopCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Shop\\ShopCell.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:39:24.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

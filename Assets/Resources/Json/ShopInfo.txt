@@ -1,0 +1,44 @@
+{
+    "info": [
+        {
+            "id": 1,
+            "itemInfo": {
+                "id": 3,
+                "num": 10
+            },
+            "priceType": 1,
+            "price": 100,
+            "tips": "加血"
+        },
+        {
+            "id": 2,
+            "itemInfo": {
+                "id": 4,
+                "num": 11
+            },
+            "priceType": 1,
+            "price": 100,
+            "tips": "回蓝"
+        },
+        {
+            "id": 3,
+            "itemInfo": {
+                "id": 5,
+                "num": 12
+            },
+            "priceType": 2,
+            "price": 999,
+            "tips": "红宝石"
+        },
+        {
+            "id": 4,
+            "itemInfo": {
+                "id": 6,
+                "num": 13
+            },
+            "priceType": 2,
+            "price": 999,
+            "tips": "蓝宝石"
+        }
+    ]
+}
